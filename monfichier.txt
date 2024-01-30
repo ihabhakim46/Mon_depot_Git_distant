@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  ligne 2 modifié 
+=======
+ ligne 1 modifié 
+>>>>>>> ma-nouvelle-branche
